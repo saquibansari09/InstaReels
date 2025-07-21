@@ -1,3 +1,9 @@
+This project is a simple Instagram Reels Clone built with React Native, implementing a vertically scrollable list of auto-playing videos using FlatList. Videos play when in view and pause when out of view. The project uses Redux for state management.
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
